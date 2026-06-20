@@ -22,6 +22,7 @@
             <div>
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" weight = "40" height = "40"/>
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" weight = "40" height = "40" />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" weight = "40" height = "40" />
             </div>
              <div>
                <h2>Estou Aprendendo</h2>
