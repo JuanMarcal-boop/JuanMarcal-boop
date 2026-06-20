@@ -1,7 +1,7 @@
 ## Hi there 👋
-
-https://github.com/user-attachments/assets/1c7094e5-555b-4eac-993c-f58c2b98597a
-
+<div>
+ <img src="https://github.com/user-attachments/assets/1c7094e5-555b-4eac-993c-f58c2b98597a" alt = demo width = "600" />
+</div>
 
 <!--
 **JuanMarcal-boop/JuanMarcal-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
