@@ -2,7 +2,7 @@
 <div>
 
 
-https://github.com/user-attachments/assets/9fe81907-be2a-4298-a993-9868569aac32
+<video src="https://github.com/user-attachments/assets/9fe81907-be2a-4298-a993-9868569aac32" autoplay loop muted playsinline></video>
 
 
 </div>
