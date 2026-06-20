@@ -1,8 +1,7 @@
 ## Hi there 👋
 <div>
 
-
-<video src="https://github.com/user-attachments/assets/9fe81907-be2a-4298-a993-9868569aac32" autoplay loop muted playsinline></video>
+<img width="736" height="414" alt="thepixelwindow_pindown io_1781908178 gif-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/c8028fa6-74cd-4b79-b583-bde592da506d" />
 
 
 </div>
