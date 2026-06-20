@@ -1,22 +1,8 @@
-## Hi there 👋
 <div>
-
 <img width="736" height="414" alt="thepixelwindow_pindown io_1781908178 gif-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/c8028fa6-74cd-4b79-b583-bde592da506d" />
-
-
 </div>
-
-<!--
-**JuanMarcal-boop/JuanMarcal-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <h1>
+    Bem-Vindo ao meu Repósitorio!
+  </h1>
+</div>
