@@ -5,8 +5,14 @@
     <h1>Bem-Vindos ao meu Repósitorio!</h1>
   </div>
     <div>
-      <p>Bem-vindos! Me chamo Juan, tenho 21 anos, faço faculdade de Ciência da Computação, e pretendo me tornar um dev BACKEND com foco em JAVA. Por aqui irei postar todos meus conhecimentos adquiridos e todos os             meus projetos!</p>
+      <p>Bem-vindos! Me chamo Juan, tenho 21 anos, faço faculdade de Ciência da Computação, e pretendo me tornar um dev BACKEND com foco em JAVA. Por aqui irei postar todos meus conhecimentos adquiridos e todos os meus projetos!</p>
     </div>
       <div>
-        <h2
+        <h2>
+          Contatos
+        </h2>
       </div>
+        <div>
+          <a href="https://www.linkedin.com/in/juanmarcal/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+          <a href = "mailto:marcaljuan90@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+        </div>
