@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div>
- <img src="https://github.com/user-attachments/assets/1c7094e5-555b-4eac-993c-f58c2b98597a" alt = demo width = "600" />
+https://github.com/user-attachments/assets/1c7094e5-555b-4eac-993c-f58c2b98597a
 </div>
 
 <!--
